@@ -1,0 +1,9 @@
+#Files to be ignored
+
+#target folder 
+
+target/
+
+#output file txt = fileTable.txt
+
+fileTable.txt
